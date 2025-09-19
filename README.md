@@ -18,3 +18,9 @@ cd repo_name
 ```bash
 git checkout -b new_branch_name
 ```
+2. To send to GitHub
+```bash
+First time-git push -u origin dev
+
+After -git push- is enough
+
